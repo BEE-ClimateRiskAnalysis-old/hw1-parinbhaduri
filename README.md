@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9870780&assignment_repo_type=AssignmentRepo)
 # Homework 1
 
 This is the template repository for Homework 1 for [BEE 6940, Climate Risk Analysis](https://viveks.me/climate-risk-analysis) at Cornell University, Spring 2023. The goal of this homework is to make sure that you are comfortable with writing and debugging Julia code.
